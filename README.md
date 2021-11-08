@@ -1,0 +1,14 @@
+# E-user 8.1.0 OPM1.171019.019 10or_E_V1_0_109 release-keys
+- manufacturer: 10or
+- platform: msm8937
+- codename: E
+- flavor: zql1520-user
+- release: 8.1.0
+- id: OPM1.171019.019
+- incremental: 10or_E_V1_0_109
+- tags: release-keys
+- fingerprint: 10or/E/E:8.1.0/OPM1.171019.019/10or_E_V1_0_109:user/release-keys
+- is_ab: false
+- brand: 10or
+- branch: E-user-8.1.0-OPM1.171019.019-10or_E_V1_0_109-release-keys
+- repo: 10or_e_dump
